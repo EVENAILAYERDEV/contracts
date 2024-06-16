@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+        "name": "Claimer",
+        "path": "./sources/contracts/Claimer.tact",
+        "output": "./sources/output",
+        "options":{
+        }
+    },
+    {
+        "name": "Claimer",
+        "path": "./sources/contracts/Claimer.tact",
+        "output": "./sources/output",
+        "options":{
+        }
+    },
+    {
+        "name": "Claimer",
+        "path": "./sources/contracts/Claimer.tact",
+        "output": "./sources/output",
+        "options":{
+        }
+    }
+    ]
+}
